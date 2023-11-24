@@ -87,6 +87,7 @@ body {
 #main {
     background-color: #0f1518;
     width: 100%;
+    overflow-x: hidden;
 
 
 }
